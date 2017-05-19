@@ -9,7 +9,7 @@
 - [libxext6](https://packages.debian.org/jessie/libxext6)
 
 ## Installation
-- Clone the repository : `git clone git@gitlab.escaledigitale.com:mediaresa/mediaresa-app.git`
+- Clone the repository : `git clone https://github.com/norio-soft/Laravel.git`
 - Install PHP dependencies : `composer install`
 - Install node modules : `npm install`
 - Install JS dependencies : `bower install`
